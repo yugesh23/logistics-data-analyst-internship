@@ -96,7 +96,7 @@ Outcome
 - Enables proactive logistics decision-making
 - Extends analysis into predictive and prescriptive analytics
 How to run
-pip install pandas numpy scikit-learn matplotlib seaborn
+pip install pandas numpy scikit-learn matplotlib seaborn  
 python pipeline.py    # Week 2
 python analysis.py    # Week 3
 python week4_model.py # Week 4  
